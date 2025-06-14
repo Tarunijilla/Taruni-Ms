@@ -1,0 +1,14 @@
+6.9s 1 /kaggle/input/smoking-and-other-risk-factors-dataset/Lung_Cancer_Trends_Realistic.csv
+12.8s 2 /usr/local/lib/python3.10/dist-packages/traitlets/traitlets.py:2915: FutureWarning: --Exporter.preprocessors=["remove_papermill_header.RemovePapermillHeader"] for containers is deprecated in traitlets 5.0. You can pass `--Exporter.preprocessors item` ... multiple times to add items to a list.
+12.8s 3 warn(
+12.9s 4 [NbConvertApp] Converting notebook __notebook__.ipynb to notebook
+13.3s 5 [NbConvertApp] Writing 154647 bytes to __notebook__.ipynb
+15.0s 6 /usr/local/lib/python3.10/dist-packages/traitlets/traitlets.py:2915: FutureWarning: --Exporter.preprocessors=["nbconvert.preprocessors.ExtractOutputPreprocessor"] for containers is deprecated in traitlets 5.0. You can pass `--Exporter.preprocessors item` ... multiple times to add items to a list.
+15.0s 7 warn(
+15.0s 8 [NbConvertApp] Converting notebook __notebook__.ipynb to html
+16.0s 9 [NbConvertApp] Support files will be in __results___files/
+16.0s 10 [NbConvertApp] Making directory __results___files
+16.0s 11 [NbConvertApp] Making directory __results___files
+16.0s 12 [NbConvertApp] Making directory __results___files
+16.0s 13 [NbConvertApp] Making directory __results___files
+16.0s 14 [NbConvertApp] Writing 302778 bytes to __results__.html
